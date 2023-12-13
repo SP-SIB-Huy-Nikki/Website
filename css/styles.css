@@ -3684,7 +3684,7 @@ textarea.form-control-lg {
 .nav-pills {
   --bs-nav-pills-border-radius: 0.5rem;
   --bs-nav-pills-link-active-color: #fff;
-  --bs-nav-pills-link-active-bg: #1abc9c;
+  --bs-nav-pills-link-active-bg: #566ce8;
 }
 .nav-pills .nav-link {
   background: none;
@@ -10940,7 +10940,7 @@ html {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #1abc9c;
+    background: #566ce8;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -11020,7 +11020,7 @@ html {
 }
 
 .portfolio-modal .btn-close {
-  color: #1abc9c;
+  color: #566ce8;
   font-size: 2rem;
   padding: 1rem;
 }
